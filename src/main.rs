@@ -1,6 +1,6 @@
 fn main() {
     println!("Apple!");
-    let hello: &str = "apples are the best";
+    let hello: &str = "hh are the best";
 
     println!("{}", hello);
 }
